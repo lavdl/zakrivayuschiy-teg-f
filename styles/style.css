@@ -199,8 +199,7 @@
 
 .button__text,
 .button__save-text,
-.floppy-icon
-{
+.floppy-icon {
   color: var(--main-color);
   mix-blend-mode: difference;
 }
