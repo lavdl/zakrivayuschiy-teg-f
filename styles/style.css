@@ -87,7 +87,6 @@
 .card__name {
   padding: 5px 10px;
   font-size: var(--font-size-main);
-  font-variation-settings: var(--font-wdth-card-header);
 }
 
 .card__buttons {
