@@ -17,7 +17,7 @@
   background-attachment: fixed;
   min-inline-size: 320px;
   min-block-size: 100dvb;
-  font-variation-settings: "wdth" var(--font-wdth-main);
+  font-variation-settings: 'wght' var(--font-wdth-main);
 }
 
 .page:has(dialog[open]) {
@@ -87,7 +87,7 @@
 .card__name {
   padding: 5px 10px;
   font-size: var(--font-size-main);
-  font-variation-settings: "wdth" var(--font-wdth-card-header);
+  font-variation-settings: 'wght' var(--font-wdth-card-header);
 }
 
 .card__buttons {
