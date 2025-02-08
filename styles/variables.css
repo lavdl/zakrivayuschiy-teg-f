@@ -1,7 +1,7 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
 :root {
   --main-font: 'Inter-Variable';
-  --accent-font: 'PressStart2P-Regular';
+  --accent-font: 'PressStart2P';
   --font-wdth-main: 400;
   --font-wdth-card-header: 700;
   --font-size-main: 18px;
@@ -12,5 +12,5 @@
   --main-color: #fff;
   --accent-color: #000;
   --contour-color: #000;
-  --fill-color: red;
+  --fill-color: #FF0000;
 } 

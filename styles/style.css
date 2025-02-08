@@ -73,7 +73,6 @@
 
 .card__footer {
   border-block-start: 2px solid var(--accent-color);
-  text-shadow: 2px 4px 1px #ffe2e7;
 }
 
 .card__footer-desc {
@@ -169,6 +168,7 @@
   background-color: var(--main-color);
   transition: 0.3s ease-in-out;
   cursor: pointer;
+  appearance: none;
 }
 
 .button__pattern:focus {
@@ -232,7 +232,7 @@
   flex-direction: column;
   align-items: center;
   gap: 30px;
-  padding: 27px;
+  padding: 30px 42px;
   max-inline-size: 353px;
 }
 
@@ -265,7 +265,7 @@
   text-transform: uppercase;
   background-color: var(--main-color);
   cursor: pointer;
-  inline-size: 257px;
+  inline-size: 100%;
 }
 
 .filter-grayscale {
